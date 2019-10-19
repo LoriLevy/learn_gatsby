@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "author": "Lori Levy <lori@lorinet.com>",
   "dependencies": {
-    "gatsby": "^2.2.0",
+    "gatsby": "^1.9.247",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-catch-links": "^1.0.19",
     "gatsby-plugin-react-helmet": "^2.0.10",
